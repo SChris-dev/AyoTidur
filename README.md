@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/schris-dev/ayotidur.git
+   git clone https://github.com/SChris-dev/ayotidur.git
    ```
 
 2. Navigate into the project directory:
@@ -65,10 +65,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 4. Commit your changes (\`git commit -am 'Add new feature'\`).
 5. Push to your branch (\`git push origin feature/your-feature\`).
 6. Create a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Credits
 
